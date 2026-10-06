@@ -66,7 +66,7 @@ responde falando e uma **banca de agentes de IA** avalia a resposta e justifica 
 5. **Revisão:** conferência automática das citações de lei, revisor cego por LLM e fila de revisão humana.
    Das 732 perguntas extraídas, ficaram as 292 mais completas e seguras, já sem dados pessoais.
 
-O código está em [`src/pipeline de criação de banco de perguntas/`](src/pipeline%20de%20cria%C3%A7%C3%A3o%20de%20banco%20de%20perguntas/).
+O código está em [`src/pipeline de criação de banco de perguntas/`](src/pipeline_de_criacao_de_banco_de_perguntas/).
 
 ### 2. A simulação
 
