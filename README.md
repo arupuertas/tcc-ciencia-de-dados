@@ -11,7 +11,7 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-RAG-1F4E8C)
 ![Testes](https://img.shields.io/badge/testes-28_passando-2E7D32)
 
-### [▶ Acessar o simulador](https://tcc-ciencia-de-dados-arua.streamlit.app/) · [Pipeline de extração](src/pipeline%20de%20cria%C3%A7%C3%A3o%20de%20banco%20de%20perguntas/) · [Como rodar](#-como-rodar-localmente)
+### [▶ Acessar o simulador](https://tcc-ciencia-de-dados-arua.streamlit.app/) · [Como rodar](#-como-rodar-localmente)
 
 <img src="docs/img/print_prova.png" alt="Tela da prova: o avaliador faz a pergunta e o candidato grava a resposta" width="820">
 
