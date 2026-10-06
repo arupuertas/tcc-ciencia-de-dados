@@ -1,0 +1,11 @@
+# Pisos = versões em que o projeto foi testado; tetos = evitam uma major nova quebrar o deploy.
+streamlit>=1.63,<2
+altair>=6.2,<7
+agno>=3.0.6,<4
+openai>=3.8,<4
+chromadb>=1.5.9,<2
+pydantic>=2.13,<3
+cryptography>=43
+httpx>=0.28,<1
+pypdf>=6,<7
+pandas>=2.2,<4

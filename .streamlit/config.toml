@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#1F4E8C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6F9"
+textColor = "#1F2933"
+
+[client]
+# Esconde o botão "Deploy" e o menu de desenvolvedor do Streamlit.
+toolbarMode = "minimal"
+
+[server]
+maxUploadSize = 200
+headless = true
+
+[browser]
+gatherUsageStats = false
